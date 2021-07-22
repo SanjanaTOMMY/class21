@@ -1,2 +1,2 @@
-# class21
-MyLibrary
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
